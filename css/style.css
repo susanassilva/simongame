@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+h1 {
+  color: #FEF2BF;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  line-height: 1.35;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.btn {
+  border: 10px solid #000000;
+  border-radius: 20%;
+  width: 200px;
+  height: 200px;
+  margin: 25px;
+  display: inline-block;
+}
+
+.redBtn{
+  background-color: red;
+}
+
+.greenBtn{
+  background-color: green;
+}
+
+.yellowBtn{
+  background-color: yellow;
+}
+
+.blueBtn{
+  background-color: blue;
+}
